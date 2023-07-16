@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
+ - <b>Java and Data Structures</b>
+    - [Rock-Paper-Scissors with Inheritance](https://github.com/SamHormozian/Rock-Paper-Scissors-with-Inheritance)
+
 
 
 <h2> 🤳 Connect with me:</h2>
