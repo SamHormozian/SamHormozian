@@ -3,7 +3,7 @@
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>HTML/CSS</b>
-    - [To-Do List]
+    - [To-Do List](https://github.com/SamHormozian/To-Do-List)
 
  - <b>Java and Data Structures</b>
     - [Rock-Paper-Scissors with Inheritance](https://github.com/SamHormozian/Rock-Paper-Scissors-with-Inheritance)
