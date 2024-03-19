@@ -14,7 +14,7 @@
     - [Graph Analysis Libary](https://github.com/SamHormozian/Graph-Analysis-Library)
  
 - <b>Python</b>
-    - 
+    - [UCSD CAPEs Data Analysis](https://github.com/SamHormozian/Group124_WI24)
 
 
 <h2> 🤳 Connect with me:</h2>
