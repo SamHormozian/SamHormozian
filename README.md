@@ -4,6 +4,7 @@
 
 - <b>HTML/CSS</b>
     - [To-Do List](https://github.com/SamHormozian/To-Do-List)
+    - [Developer Diary](https://github.com/SamHormozian/cse110-sp24-group18?tab=readme-ov-file)
 
  - <b>Java and Data Structures</b>
     - [Rock-Paper-Scissors with Inheritance](https://github.com/SamHormozian/Rock-Paper-Scissors-with-Inheritance)
