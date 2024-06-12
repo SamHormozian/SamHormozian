@@ -22,6 +22,10 @@
 
 - <b>C++</b>
     - [File Compressor/Decompressor](https://github.com/SamHormozian/File-Compress-Decompressor)
+ 
+    This Project presents a robust implementation of the Huffman coding algorithm, renowned for its effective data compression capabilities. Our implementation offers an intuitive and performant way to compress and decompress data files, showcasing the algorithm's utility in reducing file size without losing information. Contains a Huffman Coding Tree class, Huffman Coding Tree as well as both the compress and uncompress files.
+
+
     - [Graph Analysis Libary](https://github.com/SamHormozian/Graph-Analysis-Library)
  
 - <b>Python</b>
