@@ -28,6 +28,8 @@
 
     - [Graph Analysis Libary](https://github.com/SamHormozian/Graph-Analysis-Library)
  
+        This repository houses a Graph Analysis Library, a versatile and efficient C++ implementation designed to handle undirected graphs with non-negative edge weights. The library provides a comprehensive suite of functionalities essential for graph analysis and manipulation, making it a valuable tool for applications in network analysis, route optimization, epidemiological study, and more. Contains Graph header file and implementation.
+ 
 - <b>Python</b>
     - [UCSD CAPEs Data Analysis](https://github.com/SamHormozian/Group124_WI24)
 
