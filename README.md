@@ -4,7 +4,9 @@
 
 - <b>HTML/CSS</b>
     - [To-Do List](https://github.com/SamHormozian/To-Do-List)
+      
       Project consists of a simple website that tracks daily tasks. The user enters their daily tasks, marks them in progress, and marks them as complete when they are finished. This project uses both HTML and CSS elements.
+      
     - [Developer Diary](https://github.com/SamHormozian/cse110-sp24-group18?tab=readme-ov-file)
 
  - <b>Java and Data Structures</b>
