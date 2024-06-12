@@ -14,7 +14,7 @@
  - <b>Java and Data Structures</b>
     - [Rock-Paper-Scissors with Inheritance](https://github.com/SamHormozian/Rock-Paper-Scissors-with-Inheritance)
   
-    Basic Rock-Paper-Scissors development using Java, showcasing skills in the Java language.
+      Basic Rock-Paper-Scissors development using Java, showcasing skills in the Java language.
 
     - [MyLinkedList](https://github.com/SamHormozian/MyLinkedList)
   
