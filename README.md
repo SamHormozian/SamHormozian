@@ -8,10 +8,17 @@
       Project consists of a simple website that tracks daily tasks. The user enters their daily tasks, marks them in progress, and marks them as complete when they are finished. This project uses both HTML and CSS elements.
       
     - [Developer Diary](https://github.com/SamHormozian/cse110-sp24-group18?tab=readme-ov-file)
+ 
+      Group Project that involved development of a Developer Diary using HTML, CSS, and JavaScript Elements. Used industry standard software engineering process to plan and execute the development of project. Personally implemented the Weekly Summary Widget's CSS, JavaScript, and HTML elements as well as developed JUnit Testing for it. 
 
  - <b>Java and Data Structures</b>
     - [Rock-Paper-Scissors with Inheritance](https://github.com/SamHormozian/Rock-Paper-Scissors-with-Inheritance)
+  
+    Basic Rock-Paper-Scissors development using Java, showcasing skills in the Java language.
+
     - [MyLinkedList](https://github.com/SamHormozian/MyLinkedList)
+  
+    - Basic linked List implementation using Java, showcasing knowledge in basic data structures.
 
 - <b>C++</b>
     - [File Compressor/Decompressor](https://github.com/SamHormozian/File-Compress-Decompressor)
