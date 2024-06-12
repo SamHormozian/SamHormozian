@@ -23,12 +23,13 @@
 - <b>C++</b>
     - [File Compressor/Decompressor](https://github.com/SamHormozian/File-Compress-Decompressor)
  
-    This Project presents a robust implementation of the Huffman coding algorithm, renowned for its effective data compression capabilities. Our implementation offers an intuitive and performant way to compress and decompress data files, showcasing the algorithm's utility in reducing file size without losing information. Contains a Huffman Coding Tree class, Huffman Coding Tree as well as both the compress and uncompress files.
+        This Project presents a robust implementation of the Huffman coding algorithm, renowned for its effective data compression capabilities. Our implementation offers an intuitive and performant way to compress and decompress data files, showcasing the algorithm's utility in reducing file size without losing information. Contains a Huffman Coding Tree class, Huffman Coding Tree as well as both the compress and uncompress files. Showcasing in-depth knowledge of advanced data structures.
 
 
     - [Graph Analysis Libary](https://github.com/SamHormozian/Graph-Analysis-Library)
  
-        This repository houses a Graph Analysis Library, a versatile and efficient C++ implementation designed to handle undirected graphs with non-negative edge weights. The library provides a comprehensive suite of functionalities essential for graph analysis and manipulation, making it a valuable tool for applications in network analysis, route optimization, epidemiological study, and more. Contains Graph header file and implementation.
+        This repository houses a Graph Analysis Library, a versatile and efficient C++ implementation designed to handle undirected graphs with non-negative edge weights. The library provides a comprehensive suite of functionalities essential for graph analysis and manipulation, making it a valuable tool for applications in network analysis, route optimization, epidemiological study, and more. Contains Graph header file and implementation. Showcasing in-depth knowledge of advanced data structures.
+
  
 - <b>Python</b>
     - [UCSD CAPEs Data Analysis](https://github.com/SamHormozian/Group124_WI24)
