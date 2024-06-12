@@ -18,7 +18,7 @@
 
     - [MyLinkedList](https://github.com/SamHormozian/MyLinkedList)
   
-    - Basic linked List implementation using Java, showcasing knowledge in basic data structures.
+      Basic linked List implementation using Java, showcasing knowledge in basic data structures.
 
 - <b>C++</b>
     - [File Compressor/Decompressor](https://github.com/SamHormozian/File-Compress-Decompressor)
