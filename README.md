@@ -33,6 +33,8 @@
  
 - <b>Python</b>
     - [UCSD CAPEs Data Analysis](https://github.com/SamHormozian/Group124_WI24)
+ 
+        In-Depth analysis of the correlation of amount of time spent by students in their classes and their overall satisfaction with the course and its professor. Utizilized the UCSD CAPEs dataset as well as various Python libraries such as Pandas and Numpy. Personally worked on implementation of linear regression and graphs using python and various libraries.
 
 
 <h2> 🤳 Connect with me:</h2>
