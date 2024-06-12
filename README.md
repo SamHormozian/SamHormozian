@@ -18,7 +18,7 @@
 
     - [MyLinkedList](https://github.com/SamHormozian/MyLinkedList)
   
-      Basic linked List implementation using Java, showcasing knowledge in basic data structures.
+      Project consists of a self-made Doubly-Linked List data structure that is similar to Java's built-in LinkedList with self-written tests using JUnit Testing.
 
 - <b>C++</b>
     - [File Compressor/Decompressor](https://github.com/SamHormozian/File-Compress-Decompressor)
