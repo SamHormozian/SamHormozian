@@ -36,7 +36,7 @@
  
         Group Project involving in-depth analysis of the correlation of amount of time spent by students in their classes and their overall satisfaction with the course and its professor. Utilized the UCSD CAPEs dataset as well as various Python libraries such as Pandas and Numpy. Personally worked on implementation of linear regression and graphs using python and various libraries.
 
-     - [Personal Finance Tracker and Expense Prediction]([https://github.com/SamHormozian/Group124_WI24](https://github.com/SamHormozian/Personal_Finance_Tracker))
+     - [Personal Finance Tracker and Expense Prediction](https://github.com/SamHormozian/Personal_Finance_Tracker)
  
         Developed a personal finance tracking and expense prediction tool using Python. The project features a CSV-based system for managing transactions, data preprocessing for modeling, a linear regression model for predicting expenses, and visualizations of income and expenses over time. It includes a user-friendly command-line interface for adding transactions, viewing summaries, and predicting future expenses. Technologies used include Python, Pandas, Scikit-Learn, Matplotlib, and CSV, demonstrating proficiency in data management, machine learning, and data visualization.
        
