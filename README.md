@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam! <br/><a href="https://github.com/SamHormozian">Programmer</a>, <a href="https://www.linkedin.com/in/sam-hormozian-29027a227/">Math and Computer Science Student</a> </h1>
+<h1>Hi, I'm Sam! <br/><a href="https://github.com/SamHormozian">Software Developer</a>, <a href="https://www.linkedin.com/in/sam-hormozian-29027a227/">Math and Computer Science Student</a> </h1>
 
 <h2>👨‍💻 Personal Projects:</h2>
 
