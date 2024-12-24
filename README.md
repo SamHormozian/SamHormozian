@@ -39,6 +39,9 @@
      - [Personal Finance Tracker and Expense Prediction](https://github.com/SamHormozian/Personal_Finance_Tracker)
  
         Developed a personal finance tracking and expense prediction tool using Python. The project features a CSV-based system for managing transactions, data preprocessing for modeling, a linear regression model for predicting expenses, and visualizations of income and expenses over time. It includes a user-friendly command-line interface for adding transactions, viewing summaries, and predicting future expenses. Technologies used include Python, Pandas, Scikit-Learn, Matplotlib, and CSV, demonstrating proficiency in data management, machine learning, and data visualization.
+
+    - [Sports_Betting_Predictor](https://github.com/SamHormozian/Sports_Betting_Predictor)
+      The Sports Betting Predictor is a personal project that leverages data science, machine learning, and web development to forecast outcomes of NBA and NFL games. It automates data collection, preprocessing, and model training using a neural network with two hidden layers. The project features a Flask-based web application that allows users to select a sport, teams, and game details to receive predictions. While serving as an educational venture into machine learning, the predictor faces challenges in prediction accuracy and data preprocessing, with plans for future enhancements to improve model performance and scalability.
        
 <h2> 🤳 Connect with me:</h2>
 
