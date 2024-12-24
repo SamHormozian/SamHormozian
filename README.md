@@ -44,7 +44,7 @@
     - [Sports_Betting_Predictor](https://github.com/SamHormozian/Sports_Betting_Predictor)
 
 
-      The Sports Betting Predictor is a personal project that leverages data science, machine learning, and web development to forecast outcomes of NBA and NFL games. It automates data collection, preprocessing, and model training using a neural network with two hidden layers. The project features a Flask-based web application that allows users to select a sport, teams, and game details to receive predictions. While serving as an educational venture into machine learning, the predictor faces challenges in prediction accuracy and data preprocessing, with plans for future enhancements to improve model performance and scalability.
+      The Sports Betting Predictor is a personal project that combines data science, machine learning, and web development to predict outcomes of NBA and NFL games. It automates the end-to-end workflow, including data collection, preprocessing, and model training using a custom neural network with two hidden layers. The project features an interactive, Flask-based web application, enabling users to select a sport, teams, and game details to receive predictions. Designed as a hands-on educational experience, the project highlights challenges in prediction accuracy and data preprocessing while laying the groundwork for future improvements in model performance, feature engineering, and scalability.
        
 <h2> 🤳 Connect with me:</h2>
 
