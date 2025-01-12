@@ -25,6 +25,9 @@
  
         This Project presents a robust implementation of the Huffman coding algorithm, renowned for its effective data compression capabilities. Our implementation offers an intuitive and performant way to compress and decompress data files, showcasing the algorithm's utility in reducing file size without losing information. Contains a Huffman Coding Tree class, Huffman Coding Tree as well as both the compress and uncompress files. Showcasing in-depth knowledge of advanced data structures.
 
+    - [Medical Image Analysis with Risk Assessment](https://github.com/SamHormozian/Medical_Image_Analysis_with_Risk_Assessment)
+ 
+      A robust machine learning pipeline was implemented to detect anomalies in medical images, such as tumors, and assess prediction uncertainty for enhanced diagnostic reliability. Using TensorFlow, a Bayesian neural network was trained with Monte Carlo Dropout, while preprocessing large-scale datasets ensured consistent model performance. The trained models were exported in ONNX format for optimized deployment, and a GPU-powered C++ application was developed to handle real-time image preprocessing, inference, and intuitive heatmap visualizations with OpenCV. The project was streamlined with CMake and Docker, enabling seamless cross-platform compatibility.  
 
     - [Graph Analysis Libary](https://github.com/SamHormozian/Graph-Analysis-Library)
  
@@ -45,6 +48,11 @@
 
 
       The Sports Betting Predictor is a personal project that combines data science, machine learning, and web development to predict outcomes of NBA and NFL games. It automates the end-to-end workflow, including data collection, preprocessing, and model training using a custom neural network with two hidden layers. The project features an interactive, Flask-based web application, enabling users to select a sport, teams, and game details to receive predictions. Designed as a hands-on educational experience, the project highlights challenges in prediction accuracy and data preprocessing while laying the groundwork for future improvements in model performance, feature engineering, and scalability.
+      
+  - [Medical Image Analysis with Risk Assessment](https://github.com/SamHormozian/Medical_Image_Analysis_with_Risk_Assessment)
+ 
+      A robust machine learning pipeline was implemented to detect anomalies in medical images, such as tumors, and assess prediction uncertainty for enhanced diagnostic reliability. Using TensorFlow, a Bayesian neural network was trained with Monte Carlo Dropout, while preprocessing large-scale datasets ensured consistent model performance. The trained models were exported in ONNX format for optimized deployment, and a GPU-powered C++ application was developed to handle real-time image preprocessing, inference, and intuitive heatmap visualizations with OpenCV. The project was streamlined with CMake and Docker, enabling seamless cross-platform compatibility.  
+
        
 <h2> 🤳 Connect with me:</h2>
 
