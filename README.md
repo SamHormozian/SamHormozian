@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-- <b>HTML/CSS</b>
+- <b>HTML/CSS/JS</b>
     - [To-Do List](https://github.com/SamHormozian/To-Do-List)
       
       Project consists of a simple website that tracks daily tasks. The user enters their daily tasks, marks them in progress, and marks them as complete when they are finished. This project uses both HTML and CSS elements.
