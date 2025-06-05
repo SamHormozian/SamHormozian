@@ -58,12 +58,10 @@
       This project applies distributed computing with PySpark to analyze and model over 25GB of e-commerce product and review data. Executed on a 3-node Spark cluster with 6 cores and 54GB of RAM, the pipeline features comprehensive data preprocessing and cleaning, robust feature engineering—including title vectorization with Word2Vec, one-hot encoding with PCA, and price imputation—and scalable machine learning using DecisionTreeRegressor with hyperparameter tuning and RMSE-based evaluation. Additionally, graph-based features were constructed from user-product interactions via "also viewed" relationships. Significant performance optimizations were achieved through intelligent use of .persist(), .unpersist(), broadcast(), and partition tuning, resulting in a 4.5× runtime speedup. This project showcases effective big data engineering and machine learning deployment in a real-world Spark environment.
       
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[instagram]: https://www.instagram.com/samhormozian/
-[linkedin]: https://linkedin.com/in/sam-hormozian-29027a227/
+    [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+    [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+    [instagram]: https://www.instagram.com/samhormozian/
+    [linkedin]: https://linkedin.com/in/sam-hormozian-29027a227/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
