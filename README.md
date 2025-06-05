@@ -51,9 +51,12 @@
       
   - [Medical Image Analysis with Risk Assessment](https://github.com/SamHormozian/Medical_Image_Analysis_with_Risk_Assessment)
  
-      A robust machine learning pipeline was implemented to detect anomalies in medical images, such as tumors, and assess prediction uncertainty for enhanced diagnostic reliability. Using TensorFlow, a Bayesian neural network was trained with Monte Carlo Dropout, while preprocessing large-scale datasets ensured consistent model performance. The trained models were exported in ONNX format for optimized deployment, and a GPU-powered C++ application was developed to handle real-time image preprocessing, inference, and intuitive heatmap visualizations with OpenCV. The project was streamlined with CMake and Docker, enabling seamless cross-platform compatibility.  
-
-       
+      A robust machine learning pipeline was implemented to detect anomalies in medical images, such as tumors, and assess prediction uncertainty for enhanced diagnostic reliability. Using TensorFlow, a Bayesian neural network was trained with Monte Carlo Dropout, while preprocessing large-scale datasets ensured consistent model performance. The trained models were exported in ONNX format for optimized deployment, and a GPU-powered C++ application was developed to handle real-time image preprocessing, inference, and intuitive heatmap visualizations with OpenCV. The project was streamlined with CMake and Docker, enabling seamless cross-platform compatibility.
+      
+    - [E-Commerce Big Data Processing & Machine Learning Pipeline]([https://github.com/SamHormozian/Medical_Image_Analysis_with_Risk_Assessment](https://github.com/SamHormozian/Big-Data-Processing-and-Model-Training))
+ 
+      This project applies distributed computing with PySpark to analyze and model over 25GB of e-commerce product and review data. Executed on a 3-node Spark cluster with 6 cores and 54GB of RAM, the pipeline features comprehensive data preprocessing and cleaning, robust feature engineering—including title vectorization with Word2Vec, one-hot encoding with PCA, and price imputation—and scalable machine learning using DecisionTreeRegressor with hyperparameter tuning and RMSE-based evaluation. Additionally, graph-based features were constructed from user-product interactions via "also viewed" relationships. Significant performance optimizations were achieved through intelligent use of .persist(), .unpersist(), broadcast(), and partition tuning, resulting in a 4.5× runtime speedup. This project showcases effective big data engineering and machine learning deployment in a real-world Spark environment.
+      
 <h2> 🤳 Connect with me:</h2>
 
 
