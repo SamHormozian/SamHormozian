@@ -1,5 +1,5 @@
 # Hi, I’m **Sam Hormozian** 👋  
-**Software Developer • Math & Computer Science Student**
+**Software Developer • Math & Computer Science Graduate**
 
 ---
 
